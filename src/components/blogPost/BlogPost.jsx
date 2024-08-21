@@ -157,7 +157,7 @@ function BlogPost() {
                 editable ? styles.toolbarContainerEditable : ""
               }`}
             >
-              {editable && (
+              {!isLoading && editable && (
                 <div className={styles.toolbarEdit}>
                   <button
                     type="button"
