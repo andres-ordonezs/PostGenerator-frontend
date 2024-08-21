@@ -3,6 +3,8 @@
 by: Andres Ordonez
 Demo video: https://www.loom.com/share/6b119327557e458cb43e60ff645174bc?sid=e46ccd1c-bd6f-4f02-86a3-e015f13861c8
 
+This app generates blog posts from user-provided prompts.
+
 To run the frontend locally:
 
 1. Clone the Repository
