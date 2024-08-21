@@ -1,3 +1,7 @@
+# Post Generator - Frontend
+
+by: Andres Ordonez
+
 To run the frontend locally:
 
 1. Clone the Repository
